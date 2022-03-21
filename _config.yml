@@ -1,13 +1,14 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: ReactJS Covid Tracker Application Deployment using AWS Services
+author: Pranav
+email: nadapana1pranav@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The AWS CodePipeline with AWS S3 bucket as source stage, 
+  Jenkins server as build stage, 
+  AWS CodeDeploy as deployment tool on beta and production stage on AWS Ec2 is the proposed system which makes it easier to rapidly release new features, 
+  avoid downtime during application deployment, 
+  handle the errors while updating applications and without many risks associated with manual deployments.
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+github_username:  Pranav-Nadapana # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
