@@ -1,3 +1,7 @@
+---
+title: "ReactJS Covid Tracker Application Deployment using AWS Services"
+date: 2022-03-21
+---
 ❖ We develop the code and store it in local system repository or GitHub repository, can change the code any number of times until it works efficiently.
 
 ❖ While developing the code, we can push the code into the S3 Bucket in .zip file format. With Constant Development of code will be pushed into the S3 bucket manually.
